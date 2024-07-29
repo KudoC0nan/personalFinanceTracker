@@ -1,39 +1,8 @@
-Core Features
-User Authentication and Authorization
+# React + Vite
 
-User registration and login
-Password recovery/reset functionality
-User roles and permissions
-Dashboard
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Overview of financial status (total income, expenses, and balance)
-Visual representation of financial data (charts and graphs)
-Transaction Management
+Currently, two official plugins are available:
 
-Add, edit, and delete transactions
-Categorize transactions (e.g., food, transportation, entertainment)
-Set transaction types (income or expense)
-Add descriptions and dates to transactions
-Budgeting
-
-Set monthly or yearly budgets for different categories
-Track spending against budgets
-Notifications or alerts for budget limits
-Reporting and Analysis
-
-Generate financial reports (monthly, quarterly, yearly)
-Analyze spending habits and patterns
-Export reports to CSV or PDF
-Savings Goals
-
-Set and track savings goals
-Allocate funds towards specific goals
-Monitor progress towards achieving goals
-Recurring Transactions
-
-Set up recurring transactions (e.g., salary, rent, subscriptions)
-Automatically add recurring transactions to the tracker
-Multi-Currency Support
-
-Track expenses in different currencies
-Convert and display transactions in a base currency
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
